@@ -1,7 +1,5 @@
 # Daily-Backtest-V3
 <html>
-  <head
-  </head>
   <body>
     <table>
       <tr>
