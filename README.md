@@ -1,5 +1,4 @@
 # Daily-Backtest-V3
-<!DOCTYPE html>
 <html>
   <head>
     <h1>"Daily Backtest V3"</h1>
