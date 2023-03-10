@@ -1,13 +1,6 @@
 # Daily-Backtest-V3
 <html>
-  <head>
-    <h1>"Daily Backtest V3"</h1>
-    <style>
-      table, th, td {
-        border: 1px solid black;
-        padding: 20px;
-      }
-    </style>
+  <head
   </head>
   <body>
     <table>
