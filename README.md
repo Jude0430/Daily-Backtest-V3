@@ -15,7 +15,8 @@
           <ul>
             <li>Is it mitigated all the Candle? (OB, MITI, IMB, BB)</li>
             <li>Momentum trade Confirmed Align Market Structure 4tf confirmed? (Trending or Ranging?)</li>
-            <li>DXY Confirmed direction to the opposite.?</li>
+            <li>DXY Confirmed direction to the opposite.?</li>  
+            <li>Timing London Market New York Market in pht, 4pm-7pm.</li>
             <li>Timing New York Market 10pm in pht, Friday 11pm-12mn. is there a volume comming in news, market  open.</li>
           </ul>
         </td>
@@ -36,6 +37,7 @@
             <li>Check the both side of Liquidity</li>
             <li>USD - is it in breakout to the opposite in LTF?</li>
             <li>Momentum trade Confirmed Align Market Structure 4tf confirmed? (Trending or Ranging?)</li>
+            <li>Timing London Market New York Market in pht, 4pm-7pm.</li>
             <li>Timing New York Market 10pm in pht, Friday 11pm-12mn. is there a volume comming in news, market  open.</li>
           </ul>
         </td>
@@ -55,6 +57,7 @@
             <li>USD - is it in breakout to the opposite in LTF?</li>
             <li>Momentum trade Confirmed Align Market Structure 4tf confirmed?</li>
             <li>Check the both side of Liquidity</li>
+            <li>Timing London Market New York Market in pht, 4pm-7pm.</li>
             <li>Timing New York Market 10pm in pht, Friday 11pm-12mn. is there a volume comming in news, market  open.</li>
           </ul>
         </td>
